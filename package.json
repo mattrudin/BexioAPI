@@ -1,0 +1,25 @@
+{
+    "name": "bexioapi",
+    "version": "1.0.0",
+    "description": "BexioAPI for client side implementation only.",
+    "main": "BexioAPI.js",
+    "dependencies": {
+        "set-interval": "2.0.3"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mattrudin/BexioAPI.git"
+    },
+    "keywords": [
+        "bexio"
+    ],
+    "author": "Matt Rudin",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/mattrudin/BexioAPI/issues"
+    },
+    "homepage": "https://github.com/mattrudin/BexioAPI#readme"
+}
