@@ -1,6 +1,9 @@
 # BexioAPI
 For client side implementation
 
+## React example
+[Link to react example](https://github.com/mattrudin/BexioAPI-Example)
+
 ## Features
 TODO
 
@@ -8,7 +11,7 @@ TODO
 ### Install
 First install the BexioAPI from npm:
 ```javascript
-npm install BexioAPI
+npm i bexioapi
 ```
 Then import the BexioAPI into the project:
 ```javascript
